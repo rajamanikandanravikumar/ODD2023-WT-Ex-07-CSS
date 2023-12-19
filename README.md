@@ -1,5 +1,6 @@
 # Ex-07-CSS
-AIM
+AIM:
+
 Using CSS media queries, modify the webpage's color scheme with the following requirements:
 
 Default Color Scheme: Background color: Light gray (#f4f4f4) Text color: Dark gray (#333) Link color: Blue (#007bff) Small Screen Adaptation (Max-width: 600px):
@@ -11,6 +12,7 @@ Dark Mode Preference:
 If the user has set their device to dark mode, override the above styles with the following: Background color: Black (#000) Text color: White (#fff) Link color: Cyan (#17a2b8)
 
 DESIGN STEPS: 7(i)
+
 Step 1:
 Start Define the document type as HTML.
 
@@ -85,10 +87,12 @@ OUTPUT:7(i):
 ![Screenshot 2023-12-18 131431](https://github.com/rajamanikandanravikumar/ODD2023-WT-Ex-07-CSS/assets/145742839/df9581f6-aedf-436a-b732-f6e592b257a5)
 
 Ex-07(ii)-CSS
-AIM
+AIM:
+
 To use a media query in CSS to apply different styles to a webpage for mobile devices (with widths less than 600px) and desktop devices (with widths greater than or equal to 600px) by providing an example CSS snippet to demonstrate your answer.
 
 DESIGN STEPS: 7(ii)
+
 Step 1:
 Start the HTML document and create the root element.
 
@@ -102,10 +106,7 @@ Step 4:
 Create the element inside , which will contain the webpage content.
 
 Step 5:
-Inside , create a
-
-for the heading and an
-for the list of hyperlinks.
+Inside , create a for the heading and an for the list of hyperlinks.
 Step 6:
 End the HTML document by closing all open tags.
 
@@ -144,10 +145,12 @@ CODE: 7(ii)
   ![Screenshot 2023-12-19 095234](https://github.com/rajamanikandanravikumar/ODD2023-WT-Ex-07-CSS/assets/145742839/3c18603e-d962-4a35-810f-6e9870c1b621)
 
   Ex-07(iii)-CSS Orientation-based Media Query
-AIM
+AIM:
+
 To explain how you can use CSS media queries to apply different styles based on the orientation (landscape or portrait) of the device. Provide a CSS example where you change the background color of the body based on the orientation.
 
 DESIGN STEPS: 7(iii)
+
 Step 1:
 Identify the section in your HTML file where you want to add the CSS. This is typically within the <style> tags in the section.
 
@@ -204,10 +207,12 @@ CODE: 7(iii)
 ![Screenshot 2023-12-19 101101](https://github.com/rajamanikandanravikumar/ODD2023-WT-Ex-07-CSS/assets/145742839/b2d155ae-7755-47d6-99dc-c69ecc3449c6)
 
 Ex-07(iv)-CSS Responsive Typography
-AIM
+AIM:
+
 To describe how you would use media queries to adjust typography (like font size and line spacing) on a website to improve readability across different device sizes, from mobile phones to large desktop monitors. Include a CSS code snippet in your explanation.
 
 DESIGN STEPS: 7(iv)
+
 Step 1:
 Identify the HTML elements you want to style. In your case, it’s the div and li elements.
 
