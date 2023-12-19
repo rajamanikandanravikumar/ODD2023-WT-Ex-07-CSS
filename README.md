@@ -268,7 +268,7 @@ CODE: 7(iv)
     <ul>
         <li><a href="https://www.saveetha.ac.in/">SEC Home Page</a></li>
         <li><a href="http://lms.ai.saveetha.in/my/">My Camu</a></li>
-        <li><a href="https://www.github.com">GitHub</a></li>
-  </body>
-  </html>
-  OUTPUT:7(iv):
+        <li><a href="https://www.githubEx-07(v)-Print-friendly CSS></li>
+    </ul>
+</body>
+</html>
