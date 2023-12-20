@@ -130,7 +130,8 @@ for the heading and an for the list of hyperlinks. Step 6: End the HTML document
 
 ![Screenshot 2023-12-18 132731](https://github.com/rajamanikandanravikumar/ODD2023-WT-Ex-07-CSS/assets/145742839/f010b9bc-9e22-4bcd-9dca-146a12e7e428)
 
-C:\Users\admin\Pictures\Screenshots\Screenshot 2023-12-19 095234.png
+![Screenshot 2023-12-19 095234](https://github.com/rajamanikandanravikumar/ODD2023-WT-Ex-07-CSS/assets/145742839/8fbda089-abc4-4a36-bf41-a4aa64275423)
+
 
 # Ex-07(iii)-CSS Orientation-based Media Query
 # AIM:
@@ -373,3 +374,6 @@ Step 7: Remember to test your website in both light and dark modes to ensure the
   ````
 # OUTPUT:7(vi):
 
+![Screenshot 2023-12-20 112956](https://github.com/rajamanikandanravikumar/ODD2023-WT-Ex-07-CSS/assets/145742839/60d1ea8d-5700-459e-94f2-c9563c1e4f05)
+
+![Screenshot 2023-12-18 131431](https://github.com/rajamanikandanravikumar/ODD2023-WT-Ex-07-CSS/assets/145742839/4257f789-e051-4be0-95b4-e32ecfb901e4)
